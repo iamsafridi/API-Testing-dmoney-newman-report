@@ -40,8 +40,9 @@ This project aims to comprehensively test the DMoney REST API, ensuring the corr
 
 1. Clone this repository to your local machine.
 2. Set up the DMoney REST API environment.
-3. Install the necessary testing dependencies.
-4. Run the test cases using your preferred testing framework or tool.
+3. Give following command
+   ```npm i```
+   ```npm test```
 
 ## Output
 ![screencapture-127-0-0-1-5500-Reports-report-html-2024-02-04-16_15_18](https://github.com/iamsafridi/dmoney-newman-report/assets/82276738/70809ab6-2517-4ce6-ad6d-e97ee6b8dc37)
