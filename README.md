@@ -53,6 +53,9 @@ https://documenter.getpostman.com/view/19337807/2s9YyvCM87
 ## Test Cases
 https://docs.google.com/spreadsheets/d/1adgYWmQI8QCArCsLQvW3w0PZ6i6ELyaYS_BgvmUd00I/edit#gid=0
 
+## Bug Report
+https://docs.google.com/spreadsheets/d/1OnN2JrBfFECxqnWdOnZxLo-QdMd7n5LXqRLLnt5xzr0/edit#gid=0
+
 ## Contributing
 
 Feel free to contribute to this testing project by adding more test cases, improving existing ones, or reporting any issues. Pull requests are welcome!
